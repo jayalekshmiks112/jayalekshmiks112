@@ -39,9 +39,11 @@ I'm currently pursuing Btech in computer science engineering in TKM College of E
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jayalekshmiks112&theme=dark)](https://git.io/streak-stats)
 
 ****
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayalekshmiks112&theme=dark)](https://github.com/jayalekshmiks112/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayalekshmiks112&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayalekshmiks112&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 **jayalekshmiks112/jayalekshmiks112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
